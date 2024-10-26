@@ -264,7 +264,6 @@ some decks, the livestream game showed Great Fortitude, Healing Potion, and Side
 #### Blazing Assault
 * Commanding Stride
 * Deadly Aim
-* Go All Out (Objective)
 
 #### Emberstone Sentinels
 * Hidden Paths
