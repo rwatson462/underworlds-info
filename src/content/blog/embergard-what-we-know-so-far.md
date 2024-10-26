@@ -42,10 +42,16 @@ A roundup of all the news coming out of Games Workshop about the new edition: Em
 * Objectives are now called `Treasure` tokens
 * `Critical successes` are just normal successes now, but if the dice roll is a success overall they trigger Crit abilities
 * Fighters have a `Bounty` printed on their card instead of a flat single glory
-* `Focus` core action: Discard any number of cards in your hand, draw that many cards plus another one
+* `Focus` core action: Discard any number of cards in your hand, draw that many cards plus another power card
 * New Critical effects
   * `Overrun`: After an attack, Push the attacker 1 hex into the hex the defender was in
   * `Stand Fast`: The attack has -1 damage and the target cannot be driven back
+* Upgrades now have a cost printed on their cards - they don't all cost 1 glory now
+* It looks like glory isn't "spent", but rather you can't have upgrades on your fighter with costs adding up to more than your glory total.   Upgrades are removed from fighters when they're killed
+* `Brutal` keyword - support symbols do not count as successes in defence rolls
+* `Grapple` keyword - Push a target 1 hex instead of driving back
+* `Flanked` and `Surrounded` keywords - the new names for single and double supports
+* `Melee` and `Ranged` attacks - symbols next to attack actions show what type of attack it is, presumably Melee attacks will mostly be ranged 1
 
 
 ## Re-released warbands
